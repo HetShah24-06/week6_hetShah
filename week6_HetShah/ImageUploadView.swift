@@ -108,6 +108,7 @@ struct ImageUploadView: View {
                 imageURL = nil
                 selectedImage = nil
             }
+            
         }
     }
 }
